@@ -1,6 +1,11 @@
 ### Olá !Eu sou Lucas Teixeira
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
+<div>
+<a href=https://github.com/LucasTeixeira7>
+   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasTeixeira7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasTeixeira7&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
