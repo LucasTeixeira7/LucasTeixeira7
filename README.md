@@ -16,7 +16,7 @@
 <div> 
   <a href = "lucasteixeira7dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasteixeira7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"target="_blank" </a>
 </div>
 
 ![snake gif](https://github.com/LucasTeixeira7/LucasTeixeira7/blob/output/github-contribution-grid-snake-dark.svg)
